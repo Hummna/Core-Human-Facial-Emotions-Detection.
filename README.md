@@ -114,7 +114,10 @@
   <p>The project includes visualizations for training and validation loss/accuracy over epochs. Specific results for each model can be found in the respective sections.</p>
 
   <h2 id="contact-information">Contact Information</h2>
-  <p>For questions or collaboration, please contact: <a href="">gmail.com</a></p>
+  <p>For questions or collaboration, please contact: 
+   <a href="malikhamna107@gmail.com">gmail</a>
+   <a href="https://www.linkedin.com/in/hamnamalik107/">Linkedin</a>
+  </p>
 
 </body>
 
